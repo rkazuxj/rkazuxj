@@ -36,7 +36,7 @@ Busco sempre aprender na prática, desenvolvendo projetos e explorando novas tec
 
 ## 🚀 Projetos
 
-- 🌤️ Projeto Clima
+- 🌤️ Projeto Clima:
 https://rkazuxj.github.io/projeto-clima/
 
 ---
